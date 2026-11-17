@@ -173,10 +173,6 @@ I learned that Conditional Access policies can be deployed in Report-only mode b
 - [x] Verified MFA registration prompt appears for a standard user
 - [x] Confirmed MFA challenge appears on subsequent sign-in
 
----
-
-## 🛠️ Skills Demonstrated
-
-`Microsoft Entra ID` `Multi-Factor Authentication` `Conditional Access` `M365 Admin Center` `Identity & Access Management` `Zero Trust Security` `Break-Glass Accounts` `Microsoft Authenticator` `Report-Only Mode` `Tenant Administration`
+--
 
 
