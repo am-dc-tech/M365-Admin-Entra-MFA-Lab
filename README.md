@@ -179,15 +179,4 @@ I learned that Conditional Access policies can be deployed in Report-only mode b
 
 `Microsoft Entra ID` `Multi-Factor Authentication` `Conditional Access` `M365 Admin Center` `Identity & Access Management` `Zero Trust Security` `Break-Glass Accounts` `Microsoft Authenticator` `Report-Only Mode` `Tenant Administration`
 
----
 
-## 📂 Related Labs
-
-| Lab | Description |
-|-----|-------------|
-| *(Coming soon)* SSPR Lab | Configure Self-Service Password Reset in Entra |
-| *(Coming soon)* Identity Protection | Set up risk-based Conditional Access policies |
-
----
-
-*Lab environment: Microsoft 365 Business Premium trial tenant — AMTECHLab*
