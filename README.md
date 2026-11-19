@@ -131,6 +131,10 @@ This lab reflects skills directly relevant to roles in **IT Support, Cloud Admin
 
 <img width="318" height="241" alt="7 alice-sign-in-mfa-success" src="https://github.com/user-attachments/assets/ffc52826-9292-4e75-a883-7f6dc880b398" />
 
+7. Confirm the log data on Entra ID
+
+<img width="1202" height="69" alt="8 entra-alice-log-in" src="https://github.com/user-attachments/assets/df0c2f4b-e70a-47e5-b9e8-2743cfe13fca" />
+
 
 ---
 
