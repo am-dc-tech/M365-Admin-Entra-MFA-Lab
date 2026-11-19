@@ -127,6 +127,11 @@ This lab reflects skills directly relevant to roles in **IT Support, Cloud Admin
 5. Complete the registration wizard by scanning the QR code in the app.
 6. Sign out, then sign back in — confirm that the **MFA challenge appears** before access is granted. ✅
 
+<img width="441" height="529" alt="6 alice-mfa-sign-in" src="https://github.com/user-attachments/assets/ed5e7b6d-b2b1-4e77-997e-215d2e216574" />
+
+<img width="318" height="241" alt="7 alice-sign-in-mfa-success" src="https://github.com/user-attachments/assets/ffc52826-9292-4e75-a883-7f6dc880b398" />
+
+
 ---
 
 ## 🔒 Security Considerations
