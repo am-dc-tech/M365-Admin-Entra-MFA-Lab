@@ -97,7 +97,6 @@ This lab reflects skills directly relevant to roles in **IT Support, Cloud Admin
    ```
 3. **Assignments → Users:**
    - Include: **Select users and groups** → choose the **M365 Business Premium** licensed users:
-     - `admin@AMTECHLab.onmicrosoft.com`
      - `alice@AMTECHLab.onmicrosoft.com`
      - `carol@AMTECHLab.onmicrosoft.com`
    - Exclude: `admin@AMTECHLab.onmicrosoft.com` *(break-glass account)*
