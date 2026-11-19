@@ -113,6 +113,9 @@ This lab reflects skills directly relevant to roles in **IT Support, Cloud Admin
 
 7. Click **Create**.
 
+
+<img width="608" height="909" alt="5 mfa-policypng" src="https://github.com/user-attachments/assets/bbac2d21-e250-46a8-abf5-b691f35324f3" />
+
 ---
 
 ### Phase 4 — Test MFA as an End User
