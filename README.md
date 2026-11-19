@@ -1,7 +1,5 @@
 # 🔐 MFA Lab — Microsoft Entra ID & M365 Admin Center
 
-> **Hands-on lab** demonstrating how to enable and enforce Multi-Factor Authentication (MFA) for users in a Microsoft 365 tenant using Microsoft Entra ID (formerly Azure Active Directory).
-
 ---
 
 ## 📄 Summary
@@ -57,6 +55,19 @@ This lab reflects skills directly relevant to roles in **IT Support, Cloud Admin
 2. In the left nav, go to **Show all → Admin centers → Microsoft Entra**.
 3. This opens the Entra admin center at [https://entra.microsoft.com](https://entra.microsoft.com).
 
+<img width="622" height="73" alt="1 log-into-entra" src="https://github.com/user-attachments/assets/791e1cf8-6c14-4d52-b97b-c6c86f640576" />
+
+**Verify it's on:**
+
+1. Go back to `Identity → Properties → Manage security defaults`
+2. Confirm the toggle shows `Enabled`
+3. If it still shows disabled, refresh the page and check again — changes can take a moment to save
+
+> ✅ **Expected result:** Security defaults is toggled to Enabled. All users will now be required to register for MFA within 14 days.
+
+
+<img width="431" height="369" alt="2 manage-security-defaults" src="https://github.com/user-attachments/assets/40412e6d-985f-417e-bfbf-a54df052442b" />
+
 ---
 
 ### Phase 2 — Enable Per-User MFA
@@ -68,6 +79,10 @@ This lab reflects skills directly relevant to roles in **IT Support, Cloud Admin
 3. Select **Alice Adams** and **Carol Chen**.
 4. In the right panel, click **Enable**.
 5. Confirm the prompt — both users will show status: **Enabled**.
+
+
+<img width="862" height="671" alt="3 per-user-mfa" src="https://github.com/user-attachments/assets/b643b66d-bbba-487d-9a90-15bb715b9c50" />
+
 
 ---
 
